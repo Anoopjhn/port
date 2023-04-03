@@ -1,0 +1,44 @@
+[
+  {
+    "thumbnailImage" : "https://img.youtube.com/vi/P3l9o31AoeQ/sddefault.jpg",
+    "videoUrl" : "https://www.youtube.com/watch?v=P3l9o31AoeQ",
+    "title" : "Best Video Player in Flutter",
+    "publishDate" : "19 Aug 2022"
+  },
+  {
+    "thumbnailImage" : "https://img.youtube.com/vi/5vDq5DXXxss/sddefault.jpg",
+    "videoUrl" : "https://www.youtube.com/watch?v=5vDq5DXXxss&t=57s",
+    "title" : "Top 30 Flutter Tips and Tricks",
+    "publishDate" : "7 Jun 2021"
+  },
+  {
+    "thumbnailImage" : "https://img.youtube.com/vi/uz4xRnE-UIw/sddefault.jpg",
+    "videoUrl" : "https://www.youtube.com/watch?v=uz4xRnE-UIw",
+    "title" : "Flutter Tutorial - Video Player - Asset, File & Network",
+    "publishDate" : "10 Feb 2021"
+  },
+  {
+    "thumbnailImage" : "https://img.youtube.com/vi/Q4ZzN8SqE-0/sddefault.jpg",
+    "videoUrl" : "https://www.youtube.com/watch?v=Q4ZzN8SqE-0",
+    "title" : "Flutter Roadmap 2023 - Noob To Pro !",
+    "publishDate" : "20 Nov 2022"
+  },
+  {
+    "thumbnailImage" : "https://img.youtube.com/vi/o47ES996f3w/sddefault.jpg",
+    "videoUrl" : "https://www.youtube.com/watch?v=o47ES996f3w&t=367s",
+    "title" : "BEST 15 Flutter Animated Widgets",
+    "publishDate" : "1 Jul 2022"
+  },
+  {
+    "thumbnailImage" : "https://img.youtube.com/vi/hDVZykwl13I/sddefault.jpg",
+    "videoUrl" : "https://www.youtube.com/watch?v=hDVZykwl13I&t=20s",
+    "title" : "Top 70 Flutter Tips, Widgets & Packages",
+    "publishDate" : "23 Jul 2021"
+  },
+  {
+    "thumbnailImage" : "https://img.youtube.com/vi/YA_fHCF_EYc/sddefault.jpg",
+    "videoUrl" : "https://www.youtube.com/watch?v=YA_fHCF_EYc",
+    "title" : "Flutter Tutorial - Download Files From Firebase Storage - Download Images, Videos, Files",
+    "publishDate" : "19 Apr 2021"
+  }
+]
